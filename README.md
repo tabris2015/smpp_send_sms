@@ -1,6 +1,12 @@
 # smpp_send_sms
 Test program for sending a sms using smpp and SMSC Simulator
 
+## Install
+Clone this repo:
+```bash
+$ git clone https://github.com/tabris2015/smpp_send_sms
+$ cd smpp_send_sms
+```
 ## Dependencies
 Install dependencies with:
 
